@@ -1,60 +1,32 @@
-# ⚡️ T1mdeV235: Digital Architect & Security Operative ⚡️
+# ⚡ ERROR: SYSTEM_OVERRIDE_DETECTED ⚡
 
-> **"Building resilient interfaces. Breaking insecure logic."**
-> *Frontend Developer by day | Penetration Tester by night.*
-
----
-
-### 🛡️ System Overview [User: T1mdeV235]
-
-Привет! Я — **T1mdeV235**, Frontend-разработчик с глубоким уклоном в **Cybersecurity**. Я не просто создаю красивые интерфейсы на React, я проектирую их так, чтобы они выдерживали атаки любой сложности. Мой код — это сочетание эстетики киберпанка и безопасности уровня Enterprise.
-
-* 🔭 **Current Mission:** Разработка защищенных веб-приложений и аудит безопасности клиентской части.
-* 🧬 **Focus:** Zero Trust Architecture, Web Performance, UI/UX Crafting.
-* ⚡ **Fun Fact:** Могу объяснить разницу между DOM и Shadow DOM, пока Burp Suite сканирует порты.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=USER:+T1mdeV235;ACCESS:+GRANTED;ROLE:+SECURE_FRONTEND_ARCHITECT;STATUS:+HACKING_THE_DOM..." alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🟢 BOOTING SESSION...
+```bash
+[  OK  ] Loading Neural_Network...
+[  OK  ] Initializing React_Framework...
+[  OK  ] Encrypting Frontend_Assets...
+[ WARN ] 235 vulnerabilities found in legacy code. Patching...
+[  OK  ] System Ready. Welcome, T1mdeV235.
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Redux Toolkit` |
-| **Cybersec** | `OWASP Top 10`, `Burp Suite`, `Metasploit`, `Nmap`, `Wireshark` |
-| **Backend/Env** | `Node.js`, `Express`, `Docker`, `Linux (Kali/Arch)`, `Git` |
 
----
 
-### 📂 Operational Log (Featured Projects)
+special_abilities:
+  - Web_Pentesting: [OWASP_Top_10, XSS_Expert, SQLi_Hunter]
+  - UI_UX_Engineering: [Framer_Motion, Atomic_Design, Performance_Opt]
+  - Security_Ops: [Burp_Suite_Pro, Wireshark, Metasploit]
 
-#### 🛡️ [Secure-Vault-UI](https://github.com/T1mdeV235/secure-vault)
-*Прототип защищенного менеджера паролей.*
-* **Tech:** React + AES-256 Encryption.
-* **Feature:** Реализована кастомная защита от XSS и CSRF, а также обфускация данных в Redux Store.
 
-#### 🕵️ [Ghost-Scanner-JS](https://github.com/T1mdeV235/ghost-scanner)
-*Легковесный сканер уязвимостей для фронтенд-зависимостей.*
-* **Tech:** Node.js, CLI.
-* **Feature:** Автоматически находит устаревшие пакеты с известными CVE в проекте.
-
-#### 🪐 [Neon-Dashboard](https://github.com/T1mdeV235/neon-dashboard)
-*Высокопроизводительный UI в стиле Cyberpunk.*
-* **Tech:** Next.js + Framer Motion.
-* **Feature:** Сложные анимации при 60 FPS и адаптивная верстка с поддержкой Glassmorphism.
-
----
-
-### 📈 System Status
-
-```javascript
-const devStatus = {
-  user: "T1mdeV235",
-  status: "Creative Mode",
-  security: "Enforcing Policies",
-  coffeeLevel: "Critical",
-  openForCollab: true
-};
-
-if (devStatus.openForCollab) {
-  console.log(`Contact T1mdeV235: Let's build (or break) something amazing!`);
+# Как связаться с T1mdeV235
+contact_info = {
+    "terminal": "ssh t1mdev235@network.io",
+    "telegram": "[https://t.me/T1mdeV235](https://t.me/T1mdeV235)",
+    "email": "T1mdeV235@proton.me"
 }
+
+print(f"Executing handshake with {contact_info['terminal']}...")
