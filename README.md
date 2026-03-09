@@ -55,5 +55,5 @@
 
 ---
 <div align="center">
-<img src="assets/github-contribution-grid-snake.svg" />
+<img src="https://ghchart.rshah.org/T1mdeV235" alt="GitHub Chart" />
 </div>
