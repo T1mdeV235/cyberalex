@@ -1,38 +1,72 @@
-# 🌌 Neon Hacker | Frontend Alchemist 👾
+<div align="center">
 
-Привет! Я **[Твоё Имя]** — объединяю **frontend магию** с **кибербезопасностью**, чтобы веб был красивым и непробиваемым.  
-Мой код — мой щит, а интернет — моя территория.  
+# 🛡️ T1mdeV235
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;Frontend+Developer;Linux+User;Future+Ethical+Hacker;Building+Secure+Web+Apps"/>
 
-## 🛠️ Навыки
-
-- **Frontend:** `HTML5 | CSS3 | JavaScript | React | Tailwind | TypeScript`  
-- **CyberSec:** `PenTest | OWASP | Burp Suite | Wireshark | Ethical Hacking`  
-- **Инструменты:** `Git | Docker | Node.js | VS Code | Figma`  
-- **Секретные штуки:** `CI/CD | DevSecOps | Web Security Automation | XSS & CSRF Protection`  
+</div>
 
 ---
 
-## 💻 Проекты
-
-| Проект | Описание | Технологии |
-|--------|----------|------------|
-| **🌐 Phantom Dashboard** | Панель мониторинга уязвимостей в реальном времени | React, Tailwind, Node.js |
-| **🤖 Hacktober Bot** | Автоматический сканер открытых репозиториев | Python, Selenium, OWASP ZAP |
-| **🛡️ Secure Portfolio** | Личный фронтенд-портфель с защитой от XSS/CSRF | React, Tailwind, Security Headers |
-| **💾 CryptoWall** | Мини-шифровальщик текстов с AES и Base64 | JavaScript, CryptoJS |
+```bash
+> booting system...
+> loading frontend modules...
+> loading cybersecurity tools...
+> user: T1mdeV235
+> status: ONLINE
+```
 
 ---
 
-## 🌈 Визуальный стиль
+# ⚡ TECH STACK
 
-```css
-body {
-  background: radial-gradient(circle, #0ff 0%, #00f 100%);
-  color: #0ff;
-  font-family: "Courier New", monospace;
-}
-a:hover {
-  text-shadow: 0 0 10px #0ff, 0 0 20px #f0f, 0 0 30px #0ff;
-}
+### 🌐 Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+### 🔐 Cybersecurity
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Networking](https://img.shields.io/badge/Networking-000?style=for-the-badge)
+
+---
+
+# 🧠 CURRENT MISSION
+
+```
+[✓] Learn Linux
+[✓] Learn Networking
+[✓] Build Frontend Projects
+[ ] Create Security Tools
+[ ] Bug Bounty
+[ ] Reverse Engineering
+```
+
+---
+
+# 📊 GITHUB STATS
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=T1mdeV235&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T1mdeV235&layout=compact&theme=tokyonight)
+
+---
+
+ 🔥 STREAK
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=T1mdeV235&theme=tokyonight)
+
+---
+
+🐍 CONTRIBUTION SNAKE
+
+![Snake](https://raw.githubusercontent.com/T1mdeV235/T1mdeV235/main/output/github-contribution-grid-snake.svg)
+
+
+
+
+> "Security is not a product — it's a process."
+
