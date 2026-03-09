@@ -54,5 +54,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=T1mdeV235&theme=tokyonight)
 
 ---
-
-<div align="center"> ![Snake Animation](https://raw.githubusercontent.com/T1mdeV235/T1mdeV235/output/github-contribution-grid-snake.svg) </div>
+<div align="center">
+<img src="assets/github-contribution-grid-snake.svg" />
+</div>
