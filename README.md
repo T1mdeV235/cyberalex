@@ -48,7 +48,6 @@
 
 ---
 
-# 📊 GITHUB STATS
 
 # 📊 GITHUB STATS
 <p align="center">
