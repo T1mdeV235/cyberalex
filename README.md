@@ -63,7 +63,7 @@
 
 🐍 CONTRIBUTION SNAKE
 
-![Snake](https://raw.githubusercontent.com/T1mdeV235/T1mdeV235/main/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/T1mdeV235/T1mdeV235/master/output/github-contribution-grid-snake.svg)
 
 
 
