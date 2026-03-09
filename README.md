@@ -1,24 +1,15 @@
-<div align="center">
-
-# 🌌 SYSTEM OVERRIDE: T1mdeV235
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=BOOTING+SYSTEM...;ACCESS+GRANTED;CYBERSECURITY+LEARNER;FRONTEND+DEVELOPER;LINUX+ENTHUSIAST;BUILDING+THE+FUTURE..."/>
-
----
-
-### 🟢 SYSTEM STATUS: OPERATIONAL
-  
-<img src="https://img.shields.io/badge/USER-T1mdeV235-00FF9C?style=for-the-badge&logo=ghost&logoColor=black" /> <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge" /> <img src="https://img.shields.io/badge/LOCATION-ENCRYPTED-00FF9C?style=for-the-badge" />
-
-</div>
-
----
-
-### 🖥️ TERMINAL_INITIALIZATION
-```bash
-> Initializing kernel... [OK]
-> Loading frontend_modules... [OK]
-> Synchronizing cyber_sec_protocols... [OK]
-> Checking hardware... 
-> CPU: Ryzen 7 | RAM: 32GB | OS: Kali Linux / Arch
-> System ready. Welcome, Operator T1mdeV235.
+<div align="center"> # 🛡️ T1mdeV235 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;Frontend+Developer;Linux+User;Future+Ethical+Hacker;Building+Secure+Web+Apps"/> </div> ---
+bash
+> booting system...
+> loading frontend modules...
+> loading cybersecurity tools...
+> user: T1mdeV235
+> status: ONLINE
+--- # ⚡ TECH STACK ### 🌐 Frontend ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ### 🔐 Cybersecurity ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux) ![Networking](https://img.shields.io/badge/Networking-000?style=for-the-badge) --- # 🧠 CURRENT MISSION
+[✓] Learn Linux
+[✓] Learn Networking
+[✓] Build Frontend Projects
+[ ] Create Security Tools
+[ ] Bug Bounty
+[ ] Reverse Engineering
+--- 🔥 STREAK ![GitHub Streak](https://streak-stats.demolab.com/?user=T1mdeV235&theme=tokyonight) ---
