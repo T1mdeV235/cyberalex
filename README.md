@@ -54,8 +54,6 @@
 [ ] Bug Bounty
 [ ] Reverse Engineering
 ```
-
-<p align="center"> <img src="https://raw.githubusercontent.com/t1mur-dev/t1mur-dev/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
 ---
 
  🔥 STREAK
