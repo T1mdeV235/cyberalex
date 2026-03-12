@@ -54,12 +54,12 @@
 [ ] Reverse Engineering
 ```
 
-<p align="center"> <img src="https://raw.githubusercontent.com/T1mdeV235/T1mdeV235/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/t1mur-dev/t1mur-dev/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
 ---
 
  🔥 STREAK
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=T1mdeV235&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=t1mur-dev&theme=tokyonight)
 
 ---
 
