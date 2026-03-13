@@ -13,6 +13,22 @@
 </div>
 
 ---
+### 📬 Connect with Me  
+
+<p align="center">
+  <a href="mailto:raxmatullayevtimur99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.instagram.com/r_timurbek">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.facebook.com/share/1EZqQrtBKf/">
+    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
+  </a>
+  <a href="https://discord.com/users/805123459566010417">
+    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
+  </a>
+</p>
 
 ```bash
 > booting system...
